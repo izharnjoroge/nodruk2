@@ -1,0 +1,73 @@
+{
+    "project_info": {
+        "project_number": "53105896813",
+        "project_id": "nodruk-5af1f",
+        "storage_bucket": "nodruk-5af1f.appspot.com"
+    },
+    "client": [{
+            "client_info": {
+                "mobilesdk_app_id": "1:53105896813:android:11682ce8d72ea7f59cbe64",
+                "android_client_info": {
+                    "package_name": "com.nodruk.cargoowner"
+                }
+            },
+            "oauth_client": [{
+                    "client_id": "53105896813-hao7rk5rc3drqmeau9pssu5tesk4phm8.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.nodruk.cargoowner",
+                        "certificate_hash": "f053819c28c101fab0cab492cae7a2241a9401e5"
+                    }
+                },
+                {
+                    "client_id": "53105896813-l4kgaq81oi3themoka9obmhlaus77ie7.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [{
+                "current_key": "AIzaSyAYHi_DSpp5BDqsEDwEb3dhg_Jhi3gcSh4"
+            }],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [{
+                        "client_id": "53105896813-l4kgaq81oi3themoka9obmhlaus77ie7.apps.googleusercontent.com",
+                        "client_type": 3
+                    }]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:53105896813:android:2587463986f373de9cbe64",
+                "android_client_info": {
+                    "package_name": "com.nodruk.transpoter"
+                }
+            },
+            "oauth_client": [{
+                    "client_id": "53105896813-hucu0li2ltn8pm9qv225tkpdgcr2s19h.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.nodruk.transpoter",
+                        "certificate_hash": "f053819c28c101fab0cab492cae7a2241a9401e5"
+                    }
+                },
+                {
+                    "client_id": "53105896813-l4kgaq81oi3themoka9obmhlaus77ie7.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [{
+                "current_key": "AIzaSyAYHi_DSpp5BDqsEDwEb3dhg_Jhi3gcSh4"
+            }],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [{
+                        "client_id": "53105896813-l4kgaq81oi3themoka9obmhlaus77ie7.apps.googleusercontent.com",
+                        "client_type": 3
+                    }]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
